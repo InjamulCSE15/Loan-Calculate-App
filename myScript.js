@@ -15,7 +15,4 @@ function computeLoan() {
     */
     document.getElementById('payment').innerHTML = "Monthly Payment = Tk. " + payment; 
 
-
-
-
 }
